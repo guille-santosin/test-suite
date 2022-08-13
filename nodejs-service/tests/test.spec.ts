@@ -1,4 +1,5 @@
-import { Car } from './../interfaces';
+import { Car } from './../models/car';
+
 
 
 it('create car', () => {
